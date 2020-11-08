@@ -12,6 +12,6 @@ import { Logo, BasePage } from 'augustusassets';
 return (
     <BasePage>
         Block of Code
-    </BasePage>
+    <BasePage>
 );
 
