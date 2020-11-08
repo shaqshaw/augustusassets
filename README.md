@@ -1,5 +1,7 @@
 # What is this?
 
+This is a package of react components shared across all Augustus Pages
+
 #Installation
 
 `npm i augustusassets`

@@ -1,0 +1,22 @@
+{
+  "name": "augustusassets",
+  "version": "1.0.0",
+  "description": "assets for augustus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaqshaw1/augustusassets.git"
+  },
+  "keywords": [
+    "augustus"
+  ],
+  "author": "shaquilles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaqshaw1/augustusassets/issues"
+  },
+  "homepage": "https://github.com/shaqshaw1/augustusassets#readme"
+}
