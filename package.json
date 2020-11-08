@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/shaqshaw1/augustusassets/issues"
   },
-  "homepage": "https://github.com/shaqshaw1/augustusassets#readme"
+  "homepage": "https://github.com/shaqshaw1/augustusassets#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0"
+  }
 }
